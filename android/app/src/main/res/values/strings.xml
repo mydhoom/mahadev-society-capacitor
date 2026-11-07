@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mahadev Society</string>
+    <string name="title_activity_main">Mahadev Society</string>
+    <string name="package_name">com.mahadevsociety.portal</string>
+    <string name="custom_url_scheme">com.mahadevsociety.portal</string>
+</resources>
